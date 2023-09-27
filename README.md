@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+👨‍💻 Data Scientist 
+👨‍🎓 MSc Data Science University of Southampton
+📧 warayut.mu1@gmail.com
+
 <!--
 **Warayut-Muknumporn/Warayut-Muknumporn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
