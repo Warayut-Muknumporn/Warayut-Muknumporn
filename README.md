@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 👨‍💻 Data Scientist 
+
 👨‍🎓 MSc Data Science University of Southampton
+
 📧 warayut.mu1@gmail.com
 
 <!--
